@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (9.1.0)
+    rubystats (0.2.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  rubystats
+
+BUNDLED WITH
+   1.15.4
